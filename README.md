@@ -1,6 +1,7 @@
 # RoadTrafficSystem
 a Java  project I made  - this project contains the most important elements in OOP. I hope the project will help B.sc students to understand the idea of OOP or will give inspiration for other java projects.
 
+if you want to run my project you can use exlipse compiler - inport the zip file after download it and run the 'program' Class
 
 the idea of the project is to create a traffic system simulator step by step.
 the goal of the vehicles is to cross the roads on the map and arrive at their destination. any vehicle is different from each other, like in real life. 
