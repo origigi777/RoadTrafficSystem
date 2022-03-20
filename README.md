@@ -1,5 +1,5 @@
 # RoadTrafficSystem
-a Java final project I made for an Object-Oriented course in college - this project contains the most important elements in OOP. I hope the project will help B.sc students to understand the idea of OOP or will give inspiration for other java projects.
+a Java  project I made  - this project contains the most important elements in OOP. I hope the project will help B.sc students to understand the idea of OOP or will give inspiration for other java projects.
 
 
 the idea of the project is to create a traffic system simulator step by step.
