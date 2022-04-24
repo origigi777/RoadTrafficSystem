@@ -1,5 +1,5 @@
 # RoadTrafficSystem
-a Java  project I made  - this project contains the most important elements in OOP. I hope the project will help B.sc students to understand the idea of OOP or will give inspiration for other java projects.
+
 
 if you want to run my project you can use exlipse compiler - inport the zip file after download it and run the 'program' Class
 
